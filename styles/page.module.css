@@ -67,6 +67,7 @@
   color: #444;
   letter-spacing: 2px;
   line-height: 2.1rem;
+  text-align: center;
 }
 
 @media screen and (max-width: 1124px) {

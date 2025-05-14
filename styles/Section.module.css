@@ -1,0 +1,23 @@
+@keyframes reveal-text {
+    from {
+        background-position: 0%;
+    }
+    to {
+        background-position: 100%;
+    }
+    
+}
+
+.container {
+    line-height: 26px;
+    letter-spacing: 0.6px;
+    background-image: linear-gradient(120deg, #222 45%, var(--secondary) 50%);
+    background-size: 300% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; /* Important to make the gradient visible */
+    animation: reveal-text ease 2s forwards;
+    width: 100%;
+    padding: 64px 8px 32px;
+
+}

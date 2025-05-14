@@ -1,0 +1,68 @@
+@keyframes text-light {
+    0% {
+        background-position: 0%;
+    }
+    50% {
+        background-position: 100%;
+    }
+    100% {
+        background-position: 0%;
+    }
+}
+
+.container {
+    overflow: hidden;
+    width: 100%;
+    padding: 12px 0;
+}
+
+.title {
+    background-image: linear-gradient(to right, var(--secondary), var(--tertiary), var(--secondary));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; /* Important to make the gradient visible */
+    font-size: clamp(1.2rem, 3vw, 2rem);
+    font-family: var(--font-faculty-glyphic);
+    margin-top: 12px;
+    margin-bottom: 16px;
+    text-align: center;
+
+    background-size: 300%;
+    animation: text-light 4s alternate infinite;
+}
+
+.rule {
+    background-color: #444;
+    height: 1px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.subtitle {
+    color: var(--tertiary);
+    font-size: 0.6rem;
+    font-family: var(--font-radley);
+    padding: 16px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+.subNote {
+    margin-left:clamp(8px, 2vw, 12px);
+    opacity: 0.5;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+
+.date {
+    position: absolute;
+    right: 16px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: #444;
+    font-size: 1.2rem;
+    font-family: var(--font-radley);
+}
+

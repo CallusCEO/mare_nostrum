@@ -1,0 +1,89 @@
+.page {
+  background-color: var(--primary);
+  min-height: 200vh;
+  padding: 0 clamp(8px, 40vw, 364px)
+}
+
+.textContainer {
+  padding: 16px 0px;
+}
+
+@keyframes reveal-text {
+  from {
+      background-position: 0%;
+  }
+  to {
+      background-position: 100%;
+  }
+  
+}
+
+.container {
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  background-image: linear-gradient(120deg, #222 50%, var(--secondary) 51%);
+  background-size: 300% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent; /* Important to make the gradient visible */
+  animation: reveal-text linear;
+  animation-timeline: view();
+  
+}
+
+.title {
+  font-size:clamp(1.5rem, 5vw, 2.2rem);
+  margin-bottom: 32px;
+  position: relative;
+  color: var(--secondary);
+  padding: 0 0 16px;
+  letter-spacing: 2px;
+  line-height: 2.1rem;
+}
+
+.title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 1px;
+  width: 60%;
+  background-color: var(--tertiary)
+}
+
+.image {
+  width: 60%;
+  min-height: 342px;
+  position: relative;
+  margin: 32px auto 8px;
+  border-radius: 20;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.caption {
+  margin: 0 auto 32px;
+  width: fit-content;
+  color: #444;
+  letter-spacing: 2px;
+  line-height: 2.1rem;
+}
+
+@media screen and (max-width: 1124px) {
+  .page{padding: 0 clamp(8px, 20vw, 364px)}
+  .image {
+    width: 80%
+  }
+}
+
+@media screen and (max-width: 748px) {
+  .page{padding: 0 clamp(8px, 5vw, 364px)}
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .image:hover {
+    transform: scale(1.05);
+  }
+}
+
+

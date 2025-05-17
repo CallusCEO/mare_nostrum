@@ -15,7 +15,7 @@ export default function Home() {
 					</h1>
 					<p>
 						Donc, nous voici. Nous voici devant cette étude au titre étonnant et
-						peut-être incompris au premier abord. Pourquoi ce sujet ? Eh bien, le
+						peut-être incompris au premier abord. Pourquoi ce sujet ? Et bien, le
 						commerce est ce qui nous forme quotidiennement, chaque heure, chaque minute,
 						chaque seconde : une publicité par-ci, une annonce par-là, une innovation
 						ici “mais ce n&apos;est pas gratuit !”, une offre d&apos;emploi d&apos;hier
@@ -114,11 +114,10 @@ export default function Home() {
 					</p>
 					<p>
 						Dès l&apos;époque archaïque (776/750-480 av. J.-C.), les Grecs ont vu naître
-						leurs fameuses <i>polis</i>, ces cités-États qui, comme des adolescents
-						ambitieux, ont cherché à conquérir le monde - ou du moins la Méditerranée et
-						la mer Noire. Cette expansion coloniale a posé les bases d&apos;un riche
-						commerce maritime, porté par un relief qui rendait les voies terrestres
-						aussi pratiques qu&apos;un char sans roues.
+						leurs fameuses <i>polis</i>, ces cités-États qui furent la base de leur
+						commerce dans la Méditerranée et la mer Noire. Cette expansion coloniale a
+						posé les bases d'une riche activité commerciale maritime, portée par un
+						relief qui rendait les voies terrestres impratiquables.
 					</p>
 					<br />
 					<p>
@@ -126,10 +125,9 @@ export default function Home() {
 					</p>
 					<p>
 						Les Grecs ont misé sur des navires marchands robustes, construits en cyprès
-						ou en pin, avec des coques pontées et une stabilité à toute épreuve - même
-						quand Poséidon décidait de faire des vagues. Ces bateaux, lourds et ronds,
-						étaient conçus pour transporter des cargaisons conséquentes, un peu comme
-						des camions antiques flottants.
+						ou en pin, avec des coques pontées et une stabilité à toute épreuve. Ces
+						bateaux, lourds et ronds, étaient conçus pour transporter des cargaisons
+						conséquentes, un peu comme des camions antiques flottants.
 					</p>
 					<br />
 					<p>
@@ -149,9 +147,8 @@ export default function Home() {
 					<p>
 						Les Grecs échangeaient poterie, métaux, tissus, vin et huile d&apos;olive -
 						des produits phares de la Méditerranée. Mais leur génie résidait dans leurs
-						innovations : la monnaie, qui a remplacé le troc (au grand soulagement des
-						comptables de l&apos;époque 👌), les contrats commerciaux et les traités,
-						qui sécurisaient les échanges.
+						innovations : la monnaie, qui a remplacé le troc, les contrats commerciaux
+						et les traités, qui sécurisaient les échanges.
 					</p>
 				</Section>
 
@@ -189,8 +186,7 @@ export default function Home() {
 						Leur arme secrète ? Les boutres (<i>dhows que l&apos;on prononce</i>{' '}
 						&quot;da-ouz&quot;), ces navires élancés parfaitement adaptés aux mers
 						chaudes. Sans boussole, les marins arabes se guidaient avec les étoiles,
-						utilisant des outils comme le <i>kamal</i> ou le quadrant - un GPS céleste
-						avant l&apos;heure.
+						utilisant des outils comme le <i>kamal</i> ou le quadrant.
 					</p>
 					<br />
 					<p>
@@ -203,7 +199,7 @@ export default function Home() {
 						l&apos;Afrique de l&apos;Est et même l&apos;Europe, via des villes
 						italiennes comme Venise. Il ne faut pas oublier aussi{' '}
 						<i>la route de l&apos;encens</i>, reliant l&apos;Arabie au bassin
-						méditerranéen, était leur autoroute parfumée.
+						méditerranéen.
 					</p>
 					<br />
 					<p>
@@ -222,7 +218,6 @@ export default function Home() {
 						caravanes, les bazars comme &quot;hubs&quot; <i>(pôle)</i> d&apos;échange,
 						et des centres urbains comme Bagdad, une sorte de Wall Street du Moyen Âge
 						avec plus de chameaux 🐫. D&apos;où le célèbre marchand à cette époque
-						&quot;Le Camel de Sand-Street&quot; - non, ce n&apos;était que{' '}
 						<strong>Sulaymān al-Tājir (Soleyman le Marchand)</strong>.
 					</p>
 				</Section>
@@ -251,8 +246,7 @@ export default function Home() {
 					<p>
 						Comment les Grecs ont-ils passé le flambeau ? Principalement via
 						l&apos;Espagne et la Sicile, où les Arabes ont traduit et adapté des textes
-						grecs, mélangeant savoir antique et flair oriental. Cette fusion culturelle
-						a permis aux idées grecques de voyager aussi loin que leurs amphores.
+						grecs, mélangeant savoir antique et flair oriental.
 					</p>
 					<br />
 					<p>

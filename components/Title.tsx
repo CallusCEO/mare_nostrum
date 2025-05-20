@@ -25,7 +25,7 @@ const Title = () => {
 				<h2 className={styles.subNote}>
 					Une étude faite par Sirius S.
 				</h2>
-				<p className={styles.date}>05/14/2025</p>
+				<p className={styles.date}>20/05/2025</p>
 			</div>
 		</nav>
 	);

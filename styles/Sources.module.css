@@ -2,8 +2,8 @@
     margin: 64px auto;
     width: 100%;
     height: auto;
-    padding: 32px 24px;
-    background-color: #222;
+    padding: 32px 16px;
+    background-color: rgba(112, 130, 56, 0.533);
     border: #666 1px solid;
     outline: #222 1px solid;
     outline-offset: 2px;
@@ -60,6 +60,6 @@
 
 @media (hover: hover) and (pointer: fine) {
   .li:hover {
-    background-color: #444;
+    background-color: #666;
   }
 }

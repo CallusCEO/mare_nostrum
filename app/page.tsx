@@ -304,10 +304,7 @@ export default function Home() {
 						l&apos;usage de la monnaie, les contrats pour sécuriser
 						les relations marchandes, et les marchés urbains
 						structurés. Bagdad, par exemple, reprend l&apos;idée
-						grecque de ports et de relais commerciaux, mais avec une
-						touche orientale - un peu comme si les Grecs avaient
-						prêté leur recette et que les Arabes y avaient ajouté
-						des épices.
+						grecque de ports et de relais commerciaux.
 					</p>
 					<br />
 					<p>
@@ -340,8 +337,8 @@ export default function Home() {
 				<Section>
 					<h1 className={styles.title}>VII. Conclusion</h1>
 					<p>
-						Les procédés commerciaux grecs - monnaie, contrats,
-						réseaux maritimes - ont clairement laissé une empreinte
+						Les procédés commerciaux grecs (monnaie, contrats,
+						réseaux maritimes) ont clairement laissé une empreinte
 						sur les pratiques arabes, qui les ont adaptés à un
 						contexte intercontinental unique. Mais les Arabes ne se
 						sont pas contentés de copier : ils ont innové avec une
@@ -353,9 +350,9 @@ export default function Home() {
 					</p>
 					<br />
 					<p>
-						Comme quoi, deux cultures à des époques différentes et
-						sur des territoires différents peuvent avoir de nombreux
-						points communs !
+						On constate alors que deux cultures à des époques
+						différentes et sur des territoires différents peuvent
+						avoir de nombreux points communs !
 					</p>
 				</Section>
 				<Sources />

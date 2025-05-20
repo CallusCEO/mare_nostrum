@@ -15,7 +15,7 @@ export default function Home() {
 					</h1>
 					<p>
 						Donc, nous voici. Nous voici devant cette étude au titre
-						peut-être incompris aux premier abord. Pourquoi ce sujet
+						peut-être incompris au premier abord. Pourquoi ce sujet
 						? Et bien le commerce est ce qui nous forme
 						quotidiennement, chaque heure, chaque minute, chaque
 						seconde: une publicité par-ci une annonce par-là, une
@@ -56,7 +56,7 @@ export default function Home() {
 					<p>
 						Réponse courte: ils ne les ont pas ! Ou du moins, pas de
 						la manière dont on pourrait s&apos;imaginer en lisant ce
-						titre. En réalité, les grecs ne sont pas allés dans les
+						titre. En réalité, les Grecs ne sont pas allés dans les
 						pays arabes afin de leur dire: “Bonjour, nous vous
 						offrons nos services de vente!”. Cela est bien plus
 						complexe et la réponse ne se situe pas entièrement dans
@@ -70,7 +70,7 @@ export default function Home() {
 						propose une courte lecture durant laquelle nous mettrons
 						en lien les similitudes concernant les procédés
 						commerciaux entre ces deux peuples différents mais
-						proche à la fois.
+						proches à la fois.
 					</p>
 				</Section>
 
@@ -198,11 +198,11 @@ export default function Home() {
 					</p>
 					<p>
 						Les Arabes ont commencé tôt, dès l&apos;Âge de Bronze,
-						avec des bateaux rudimentaires faits de bois, de roseaux
-						et de bitume naviguant dans le golfe Arabique. Mais
-						c&apos;est avec l&apos;avènement de l&apos;Islam au VIIe
-						siècle que leur commerce prit son envol, intégrant des
-						influences diverses dans un &quot;melting-pot&quot;{' '}
+						avec des bateaux rudimentaires faits de bois naviguant
+						dans le golfe Arabique. Mais c&apos;est avec
+						l&apos;avènement de l&apos;Islam au VIIe siècle que leur
+						commerce prit son envol, intégrant des influences
+						diverses dans un &quot;melting-pot&quot;{' '}
 						<i>
 							(un lieu où des échanges se font ce qui crée des
 							fusions de cultures)
@@ -243,11 +243,7 @@ export default function Home() {
 					<p>
 						Encens, épices, soie, tissus et maroquinerie dominaient
 						leurs échanges - des trésors qui rendaient envieux les
-						marchés lointains. Leurs innovations incluaient les
-						traités commerciaux pour protéger les caravanes, les
-						bazars comme "hubs" <i>(pôle)</i> d&apos;échange, et des
-						centres urbains comme Bagdad. On notera donc un des
-						célèbres marchant à cette époque{' '}
+						marchés lointains.
 						<strong>
 							Au VIIe siècle, l&apos;Islam naissant a intégré
 							l&apos;éthique : honnêteté, justice et interdiction
